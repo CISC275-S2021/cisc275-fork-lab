@@ -14,4 +14,4 @@ Elaine Example, Junior MEEG student, favorite programming language is Excel Macr
 
 Premal Patel, Senior CHEG student, favorite programming language is Python
 
-Daniel Hort6a, Sophomore CISC student, favorite programming language is Python
+Daniel Horta, Sophomore CISC student, favorite programming language is Python
